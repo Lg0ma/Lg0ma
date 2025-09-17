@@ -43,11 +43,9 @@ Hi there 👋. I'm a senior in Computer Science at The University of Texas at El
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Docker" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img align="left" alt="Spring Boot" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 <br><br>
 
-## 📊 Github Stats
-<img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=Lg0ma" />
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lg0ma&layout=compact&langs_count=8&card_width=320" />
 
 
 ## 🏆 Github Trophies 🏆 
